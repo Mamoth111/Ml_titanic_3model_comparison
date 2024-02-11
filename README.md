@@ -23,4 +23,4 @@ The dataset used in this project is the famous Titanic dataset, which contains i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Mamoth111/titanic_3_model_comparison.git
+   git clone https://github.com/Mamoth111/Ml_titanic_3model_comparison.git
