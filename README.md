@@ -5,6 +5,6 @@ This project focuses on building a machine learning model to predict the surviva
 ## Dataset
 The dataset used in this project is the famous Titanic dataset, which contains information about passengers including whether they survived or not. The datasets are available in the file.
 ## Files
-- `titanic.csv`: The dataset containing information about passengers.
-- `Titanic_ML_Model.ipynb`: Jupyter Notebook containing the code for data analysis, outlier analysis, exploratory data analysis (EDA), and building the machine learning model.
+- `train.csv`: The dataset containing information about passengers.
+- `Titanic_project.ipynb`: Jupyter Notebook containing the code for data analysis, outlier analysis, exploratory data analysis (EDA), and building the machine learning model.
 - `requirements.txt`: File containing the Python packages required to run the Jupyter Notebook.
