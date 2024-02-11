@@ -11,7 +11,7 @@ The dataset used in this project is the famous Titanic dataset, which contains i
 ## Data Analysis
 - Exploratory data analysis (EDA) is performed to understand the structure and characteristics of the dataset.
 - Outlier analysis is conducted to identify and handle outliers in the data.
-  ## Machine Learning Model
+## Machine Learning Model
 - A machine learning model is built using all 3 boosting methods; ADA Boosting, Gradient Boosting and XGboosting.
 - All 3 models are trained on a portion of the dataset and evaluated using appropriate metrics such as accuracy, precision, recall, and F1-score.
 - Hyperparameter tuning is performed to optimize the model's performance.
